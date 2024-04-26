@@ -1,3 +1,60 @@
+Results for 4
+Results for 8
+Test Error:
+ Accuracy: 49.1%, Avg loss: 1.231638
+
+Test Error:
+ Accuracy: 51.4%, Avg loss: 1.165559
+
+Test Error:
+ Accuracy: 53.1%, Avg loss: 1.093724
+
+Test Error:
+ Accuracy: 55.7%, Avg loss: 1.056585
+
+Test Error:
+ Accuracy: 59.1%, Avg loss: 0.988887
+
+Test Error:
+ Accuracy: 60.8%, Avg loss: 0.915220
+
+Test Error:
+ Accuracy: 61.7%, Avg loss: 0.887282
+
+Test Error:
+ Accuracy: 61.9%, Avg loss: 0.880732
+
+Test Error:
+ Accuracy: 62.0%, Avg loss: 0.876128
+
+
+Results for 12
+ Accuracy: 50.8%, Avg loss: 1.217368
+
+Test Error:
+ Accuracy: 53.1%, Avg loss: 1.126559
+
+Test Error:
+ Accuracy: 63.6%, Avg loss: 0.919917
+
+Test Error:
+ Accuracy: 77.5%, Avg loss: 0.628029
+
+Test Error:
+ Accuracy: 88.2%, Avg loss: 0.308901
+
+Test Error:
+ Accuracy: 88.7%, Avg loss: 0.290920
+
+Test Error:
+ Accuracy: 89.7%, Avg loss: 0.267602
+
+Test Error:
+ Accuracy: 90.0%, Avg loss: 0.256411
+
+Test Error:
+ Accuracy: 90.6%, Avg loss: 0.233956
+
 
 Results for 26
 Test Error:
